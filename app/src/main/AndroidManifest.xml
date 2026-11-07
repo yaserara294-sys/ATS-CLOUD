@@ -6,9 +6,7 @@
         android:allowBackup="true"
         android:label="ATS CLOUD"
         android:icon="@drawable/ats_cloud_icon"
-        android:roundIcon="@drawable/ats_cloud_icon"
-        android:theme="@android:style/Theme.Material.Light.NoActionBar"
-        android:usesCleartextTraffic="true">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
             android:name=".MainActivity"
@@ -20,6 +18,7 @@
             </intent-filter>
 
         </activity>
+
     </application>
 
 </manifest>
