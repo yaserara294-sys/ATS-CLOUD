@@ -1,9 +1,12 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="true"
         android:label="ATS CLOUD"
+        android:icon="@drawable/ats_cloud_icon"
+        android:roundIcon="@drawable/ats_cloud_icon"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="true">
 
